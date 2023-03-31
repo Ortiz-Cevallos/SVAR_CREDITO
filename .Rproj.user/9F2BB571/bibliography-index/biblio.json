@@ -1,0 +1,611 @@
+{
+    "sources": [
+        {
+            "DOI": "10.18637/jss.v097.i05",
+            "URL": "https://www.jstatsoft.org/index.php/jss/article/view/v097i05",
+            "abstract": "",
+            "author": [
+                {
+                    "family": "Lange",
+                    "given": "Alexander"
+                },
+                {
+                    "family": "Dalheimer",
+                    "given": "Bernhard"
+                },
+                {
+                    "family": "Herwartz",
+                    "given": "Helmut"
+                },
+                {
+                    "family": "Maxand",
+                    "given": "Simone"
+                }
+            ],
+            "container-title": "Journal of Statistical Software",
+            "id": "SVAR21",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "page": "1-34",
+            "title": "Svars: An r package for data-driven identification in multivariate time series analysis",
+            "title-short": "Svars",
+            "type": "article-journal",
+            "volume": "97"
+        },
+        {
+            "DOI": "",
+            "URL": "https://ideas.repec.org/a/bla/obuest/v78y2016i1p94-112.html",
+            "abstract": "",
+            "author": [
+                {
+                    "family": "Herwartz",
+                    "given": "Helmut"
+                },
+                {
+                    "family": "Plödt",
+                    "given": "Martin"
+                }
+            ],
+            "container-title": "Oxford Bulletin of Economics and Statistics",
+            "id": "Herwartz2016",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "keyword": "",
+            "page": "94-112",
+            "title": "Simulation Evidence on Theory-based and Statistical Identification under Volatility Breaks",
+            "type": "article-journal",
+            "volume": "78"
+        },
+        {
+            "URL": "https://www.jstatsoft.org/v27/i04/",
+            "author": [
+                {
+                    "family": "Pfaff",
+                    "given": "Bernhard"
+                }
+            ],
+            "container-title": "Journal of Statistical Software",
+            "id": "Pfaff08",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008
+                    ]
+                ]
+            },
+            "title": "VAR, SVAR and SVEC models: Implementation within R package vars",
+            "title-short": "VAR, SVAR and SVEC models",
+            "type": "article-journal",
+            "volume": "27"
+        },
+        {
+            "DOI": "",
+            "URL": "https://ideas.repec.org/h/nbr/nberch/11075.html",
+            "abstract": "",
+            "author": [
+                {
+                    "family": "Stock",
+                    "given": "James H."
+                },
+                {
+                    "family": "Watson",
+                    "given": "Mark W."
+                }
+            ],
+            "chapter-number": "",
+            "collection-number": "",
+            "collection-title": "NBER chapters",
+            "container-title": "NBER Macroeconomics Annual 2002, Volume 17",
+            "edition": "",
+            "id": "Stock2003",
+            "issued": {
+                "date-parts": [
+                    [
+                        2003
+                    ]
+                ]
+            },
+            "keyword": "",
+            "page": "159-230",
+            "publisher": "National Bureau of Economic Research, Inc",
+            "title": "Has the Business Cycle Changed and Why?",
+            "type": "chapter",
+            "volume": ""
+        },
+        {
+            "DOI": "",
+            "URL": "https://ideas.repec.org/a/ecm/emetrp/v48y1980i1p1-48.html",
+            "abstract": "",
+            "author": [
+                {
+                    "family": "Sims",
+                    "given": "Christopher A."
+                }
+            ],
+            "container-title": "Econometrica",
+            "id": "Sims80",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        1980
+                    ]
+                ]
+            },
+            "keyword": "",
+            "page": "1-48",
+            "title": "Macroeconomics and Reality",
+            "type": "article-journal",
+            "volume": "48"
+        },
+        {
+            "DOI": "10.1111/obes.12234",
+            "URL": "https://ideas.repec.org/a/bla/obuest/v80y2018i4p736-754.html",
+            "abstract": "",
+            "author": [
+                {
+                    "family": "Herwartz",
+                    "given": "Helmut"
+                }
+            ],
+            "container-title": "Oxford Bulletin of Economics and Statistics",
+            "id": "Herwartz18",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "keyword": "",
+            "page": "736-754",
+            "title": "Hodges–Lehmann Detection of Structural Shocks – An Analysis of Macroeconomic Dynamics in the Euro Area",
+            "type": "article-journal",
+            "volume": "80"
+        },
+        {
+            "author": [
+                {
+                    "family": "Breitung",
+                    "given": "J."
+                },
+                {
+                    "family": "Bruggemann",
+                    "given": "R."
+                },
+                {
+                    "family": "Lutkepohl",
+                    "given": "H."
+                }
+            ],
+            "chapter-number": "4",
+            "container-title": "Applied time series econometrics",
+            "editor": [
+                {
+                    "family": "Kratzig",
+                    "given": "M."
+                },
+                {
+                    "family": "Lutkepohl",
+                    "given": "H."
+                }
+            ],
+            "id": "Breitung2004",
+            "issued": {
+                "date-parts": [
+                    [
+                        2004
+                    ]
+                ]
+            },
+            "page": "159-196",
+            "publisher": "Cambridge University Press",
+            "publisher-place": "Cambridge",
+            "title": "Structural vector autoregressive modeling and impulse responses",
+            "type": "chapter"
+        },
+        {
+            "author": [
+                {
+                    "family": "Cochrane",
+                    "given": "John H."
+                }
+            ],
+            "container-title": "The Quarterly Journal of Economics",
+            "id": "COCHRANE94",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        1994
+                    ]
+                ]
+            },
+            "page": "241-265",
+            "title": "Permanent and Transitory Components of GNP and Stock Prices",
+            "type": "article-journal",
+            "volume": "109"
+        },
+        {
+            "DOI": "",
+            "URL": "",
+            "abstract": "",
+            "author": [
+                {
+                    "family": "Sims",
+                    "given": "Christopher A."
+                }
+            ],
+            "genre": "NBER Working Papers",
+            "id": "Sims802",
+            "issued": {
+                "date-parts": [
+                    [
+                        1980,
+                        1
+                    ]
+                ]
+            },
+            "keyword": "",
+            "number": "0430",
+            "publisher": "National Bureau of Economic Research, Inc",
+            "title": "Comparison of Interwar and Postwar Business Cycles: Monetarism Reconsidered",
+            "type": "report"
+        },
+        {
+            "DOI": "",
+            "URL": "",
+            "abstract": "",
+            "author": [
+                {
+                    "family": "Blanchard",
+                    "given": "Olivier Jean"
+                },
+                {
+                    "family": "Quah",
+                    "given": "Danny"
+                }
+            ],
+            "genre": "NBER Working Papers",
+            "id": "BLANCHARD88",
+            "issued": {
+                "date-parts": [
+                    [
+                        1988,
+                        10
+                    ]
+                ]
+            },
+            "keyword": "",
+            "number": "2737",
+            "publisher": "National Bureau of Economic Research, Inc",
+            "title": "The Dynamic Effects of Aggregate Demand and Supply Disturbances",
+            "type": "report"
+        },
+        {
+            "DOI": "",
+            "author": [
+                {
+                    "family": "Gali",
+                    "given": "Jordi"
+                }
+            ],
+            "container-title": "American Economic Review",
+            "id": "GALI99",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        1999
+                    ]
+                ]
+            },
+            "keyword": "",
+            "page": "249-271",
+            "title": "Technology, Employment, and the Business Cycle: Do Technology Shocks Explain Aggregate Fluctuations?",
+            "type": "article-journal",
+            "volume": "89"
+        },
+        {
+            "author": [
+                {
+                    "literal": "Secretaría Ejecutiva del Consejo Monetario Centroamericano"
+                }
+            ],
+            "id": "SECMCADATOS",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "note": "Accesado: 2023-03-30",
+            "publisher": "https://www.secmca.org/wp-content/uploads/2023/03/REPORTE_INDICADORES_BANCARIOS_MARZO_2023.xlsx",
+            "title": "INDICADORES BANCARIOS",
+            "type": ""
+        },
+        {
+            "URL": "https://www.R-project.org/",
+            "author": [
+                {
+                    "literal": "R Core Team"
+                }
+            ],
+            "id": "R-base",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "publisher": "R Foundation for Statistical Computing",
+            "publisher-place": "Vienna, Austria",
+            "title": "R: A language and environment for statistical computing",
+            "title-short": "R",
+            "type": "book"
+        },
+        {
+            "URL": "https://github.com/rstudio/bookdown",
+            "author": [
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                }
+            ],
+            "id": "R-bookdown",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "note": "R package version 0.21",
+            "title": "Bookdown: Authoring books and technical documents with r markdown",
+            "title-short": "Bookdown",
+            "type": "book"
+        },
+        {
+            "URL": "https://yihui.org/knitr/",
+            "author": [
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                }
+            ],
+            "id": "R-knitr",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "note": "R package version 1.33",
+            "title": "Knitr: A general-purpose package for dynamic report generation in r",
+            "title-short": "Knitr",
+            "type": "book"
+        },
+        {
+            "URL": "https://CRAN.R-project.org/package=rmarkdown",
+            "author": [
+                {
+                    "family": "Allaire",
+                    "given": "JJ"
+                },
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                },
+                {
+                    "family": "McPherson",
+                    "given": "Jonathan"
+                },
+                {
+                    "family": "Luraschi",
+                    "given": "Javier"
+                },
+                {
+                    "family": "Ushey",
+                    "given": "Kevin"
+                },
+                {
+                    "family": "Atkins",
+                    "given": "Aron"
+                },
+                {
+                    "family": "Wickham",
+                    "given": "Hadley"
+                },
+                {
+                    "family": "Cheng",
+                    "given": "Joe"
+                },
+                {
+                    "family": "Chang",
+                    "given": "Winston"
+                },
+                {
+                    "family": "Iannone",
+                    "given": "Richard"
+                }
+            ],
+            "id": "R-rmarkdown",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "note": "R package version 2.7",
+            "title": "Rmarkdown: Dynamic documents for r",
+            "title-short": "Rmarkdown",
+            "type": "book"
+        },
+        {
+            "URL": "https://github.com/rstudio/bookdown",
+            "author": [
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                }
+            ],
+            "id": "bookdown2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "note": "ISBN 978-1138700109",
+            "publisher": "Chapman; Hall/CRC",
+            "publisher-place": "Boca Raton, Florida",
+            "title": "Bookdown: Authoring books and technical documents with R markdown",
+            "title-short": "Bookdown",
+            "type": "book"
+        },
+        {
+            "URL": "https://yihui.org/knitr/",
+            "author": [
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                }
+            ],
+            "edition": "2nd",
+            "id": "knitr2015",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "note": "ISBN 978-1498716963",
+            "publisher": "Chapman; Hall/CRC",
+            "publisher-place": "Boca Raton, Florida",
+            "title": "Dynamic documents with R and knitr",
+            "type": "book"
+        },
+        {
+            "URL": "http://www.crcpress.com/product/isbn/9781466561595",
+            "author": [
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                }
+            ],
+            "container-title": "Implementing reproducible computational research",
+            "editor": [
+                {
+                    "family": "Stodden",
+                    "given": "Victoria"
+                },
+                {
+                    "family": "Leisch",
+                    "given": "Friedrich"
+                },
+                {
+                    "family": "Peng",
+                    "given": "Roger D."
+                }
+            ],
+            "id": "knitr2014",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014
+                    ]
+                ]
+            },
+            "note": "ISBN 978-1466561595",
+            "publisher": "Chapman; Hall/CRC",
+            "title": "Knitr: A comprehensive tool for reproducible research in R",
+            "title-short": "Knitr",
+            "type": "chapter"
+        },
+        {
+            "URL": "https://bookdown.org/yihui/rmarkdown",
+            "author": [
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                },
+                {
+                    "family": "Allaire",
+                    "given": "J. J."
+                },
+                {
+                    "family": "Grolemund",
+                    "given": "Garrett"
+                }
+            ],
+            "id": "rmarkdown2018",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "note": "ISBN 9781138359338",
+            "publisher": "Chapman; Hall/CRC",
+            "publisher-place": "Boca Raton, Florida",
+            "title": "R markdown: The definitive guide",
+            "title-short": "R markdown",
+            "type": "book"
+        },
+        {
+            "URL": "https://bookdown.org/yihui/rmarkdown-cookbook",
+            "author": [
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                },
+                {
+                    "family": "Dervieux",
+                    "given": "Christophe"
+                },
+                {
+                    "family": "Riederer",
+                    "given": "Emily"
+                }
+            ],
+            "id": "rmarkdown2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "note": "ISBN 9780367563837",
+            "publisher": "Chapman; Hall/CRC",
+            "publisher-place": "Boca Raton, Florida",
+            "title": "R markdown cookbook",
+            "type": "book"
+        }
+    ],
+    "project_biblios": [
+        "book.bib",
+        "packages.bib"
+    ]
+}
